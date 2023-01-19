@@ -9,7 +9,7 @@ I've been learning to code for almost a year, beginning with Python and progress
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [okolaaprecious@gmail.com](mailto:okolaaprecious@gmail.com)
 * 🧠  I'm learning React and Financial Analysis with Python
-* ⚡  I enjoy playing CODM. You can find me there by adding me up  @NgBLAZE.
+* ⚡  I enjoy playing CODM. You can find me there by adding me up  @Ng~BLAZE.
 
 <a href="https://www.github.com/NgBlaze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NgBlaze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
