@@ -4,8 +4,6 @@ Hi 👋 My name is Precious Okolaa
 Full Stack Web Developer, Data analyst and Machine Learning Enthusiast, Crypto
 ------------------------------------------------------------------------------
 
-I've been learning to code for almost a year, beginning with Python and progressing to HTML, CSS, and Javascript. I'm actively exploring React and some ML algorithms.
-
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [okolaaprecious@gmail.com](mailto:okolaaprecious@gmail.com)
 * 🧠  I'm learning React and Financial Analysis with Python
