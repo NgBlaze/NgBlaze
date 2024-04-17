@@ -17,8 +17,8 @@ I'm passionate about crafting innovative solutions using cutting-edge technologi
 
 #### Skills
 
-- Proficient in HTML, CSS, React, Django, Docker, Kubernetes, and more.
-- Experienced in data science, engineering, cloud computing, and Linux.
+- Proficient in HTML, CSS, Tailwind, React, POSTGRESQL, Django, Docker, Kubernetes, CI/CD.
+- Experienced in data science, data engineering, cloud computing, and Linux.
   
 #### Socials
 
