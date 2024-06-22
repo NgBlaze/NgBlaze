@@ -11,7 +11,7 @@ I'm passionate about crafting innovative solutions using cutting-edge technologi
 
 ### Projects and Achievements
 
-- **High-Frequency Trading Bot:** Developed a trading bot with an 80% backtesting winning rate using a scalping strategy.
+- **High-Frequency Trading Bot:** Developed a trading bot with an 70% backtesting winning rate using a scalping strategy.
 - **Machine Learning Model:** Built a model incorporating ensemble techniques to predict the gas compressibility factor.
 - **ALX Top Performer:** Recognized for excellence in cloud computing, Linux, and data science.
 
