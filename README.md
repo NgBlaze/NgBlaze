@@ -18,19 +18,19 @@ I'm passionate about crafting innovative solutions using cutting-edge technologi
 ### Skills
 
 - **Frontend:** HTML, CSS, Tailwind, React
-- **Backend:** Django
+- **Backend:** Django, PHP
 - **Database:** PostgreSQL
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Other:** Data Science, Data Engineering, Cloud Computing, Linux
 
 ### Popular Repositories
 
-1. [Rock-Paper-Scissors](https://github.com/NgBlaze/Rock-Paper-Scissors): A simple program for Rock, Paper, Scissors game using Python.
-2. [Calc-Test](https://github.com/NgBlaze/calc-test): JavaScript-based calculator test.
-3. [Loan Calculator](https://github.com/NgBlaze/loan-calculator): A program to calculate loans.
-4. [Zoo Keeper](https://github.com/NgBlaze/zoo-keeper): A program to ease the job of a zookeeper.
-5. [Tribonacci Series](https://github.com/NgBlaze/Tribonacci-Series): A program to return n-elements of a unique Tribonacci series using Python.
-6. [Anagrams](https://github.com/NgBlaze/anagrams): A Python program to check if two words are anagrams.
+1. [Crypto-Bot](https://github.com/NgBlaze/Crypto-Bot): A high-frequency trading bot for cryptocurrency markets.
+2. [CMS-PHP](https://github.com/NgBlaze/CMS-PHP): A content management system built with PHP.
+3. [ML-Natural-Gas-Compressibility--Factor](https://github.com/NgBlaze/ML-Natural-Gas-Compressibility--Factor): Predicting gas compressibility factor using machine learning.
+4. [docker-react](https://github.com/NgBlaze/docker-react): A sample project to deploy a React application using Docker.
+5. [Rock-Paper-Scissors](https://github.com/NgBlaze/Rock-Paper-Scissors): A simple Python program for the Rock, Paper, Scissors game.
+6. [Zoo Keeper](https://github.com/NgBlaze/zoo-keeper): A program to ease the job of a zookeeper.
 
 ### GitHub Stats
 
