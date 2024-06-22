@@ -1,36 +1,48 @@
-## Hi there! 👋 I'm Precious Okolaa
+# Hi there! 👋 I'm Precious Kingsley Okolaa (NgBlaze)
 
-### Full Stack Web Developer | Data Scientist | Machine Learning Enthusiast
+## Full Stack Web Developer | Data Scientist | Machine Learning Enthusiast
 
-🌍 Based in Nigeria  
-✉️ Reach out to me at [okolaaprecious@gmail.com](mailto:okolaaprecious@gmail.com)
+🌍 **Location:** Nigeria  
+📧 **Email:** [okolaaprecious@gmail.com](mailto:okolaaprecious@gmail.com)  
 
-#### About Me
+### About Me
 
 I'm passionate about crafting innovative solutions using cutting-edge technologies. With expertise in frontend stacks like HTML, CSS, and React, backend frameworks like Django, and containerization with Docker and Kubernetes, I bring a diverse skill set to every project.
 
-#### Projects and Achievements
+### Projects and Achievements
 
-- Developed a high-frequency trading bot with an 80% backtesting winning rate, employing a scalping strategy.
-- Built a machine learning model, incorporating ensemble techniques for predicting gas compressibility factor.
-- Recognized as a top performer in ALX for a year, demonstrating proficiency in cloud computing, Linux, and data science.
+- **High-Frequency Trading Bot:** Developed a trading bot with an 80% backtesting winning rate using a scalping strategy.
+- **Machine Learning Model:** Built a model incorporating ensemble techniques to predict the gas compressibility factor.
+- **ALX Top Performer:** Recognized for excellence in cloud computing, Linux, and data science.
 
-#### Skills
+### Skills
 
-- Proficient in HTML, CSS, Tailwind, React, POSTGRESQL, Django, Docker, Kubernetes, CI/CD.
-- Experienced in data science, data engineering, cloud computing, and Linux.
-  
-#### Socials
+- **Frontend:** HTML, CSS, Tailwind, React
+- **Backend:** Django
+- **Database:** PostgreSQL
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Other:** Data Science, Data Engineering, Cloud Computing, Linux
 
-- GitHub: [NgBlaze](https://www.github.com/NgBlaze)
-- Twitter: [okozboy](https://www.twitter.com/okozboy)
+### Popular Repositories
 
-#### Badges
+1. [Rock-Paper-Scissors](https://github.com/NgBlaze/Rock-Paper-Scissors): A simple program for Rock, Paper, Scissors game using Python.
+2. [Calc-Test](https://github.com/NgBlaze/calc-test): JavaScript-based calculator test.
+3. [Loan Calculator](https://github.com/NgBlaze/loan-calculator): A program to calculate loans.
+4. [Zoo Keeper](https://github.com/NgBlaze/zoo-keeper): A program to ease the job of a zookeeper.
+5. [Tribonacci Series](https://github.com/NgBlaze/Tribonacci-Series): A program to return n-elements of a unique Tribonacci series using Python.
+6. [Anagrams](https://github.com/NgBlaze/anagrams): A Python program to check if two words are anagrams.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgBlaze&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NgBlaze&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![NgBlaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgBlaze&show_icons=true&theme=radical)
+![NgBlaze's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NgBlaze&theme=radical)
+![NgBlaze's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgBlaze&layout=compact&theme=radical)
 
-![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NgBlaze&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+### Connect with Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgBlaze&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+- **GitHub:** [NgBlaze](https://github.com/NgBlaze)
+- **Twitter:** [@okozboy](https://twitter.com/okozboy)
+
+---
+
+*Dynamic, adaptable, and all-round developer committed to continuous learning and innovation.*
